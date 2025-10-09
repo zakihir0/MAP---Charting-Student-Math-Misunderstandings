@@ -2,15 +2,15 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "9cdb91b4",
+   "id": "7bcc6aee",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "papermill": {
-     "duration": 0.005608,
-     "end_time": "2025-10-08T13:49:55.071263",
+     "duration": 0.005776,
+     "end_time": "2025-10-09T01:45:00.074357",
      "exception": false,
-     "start_time": "2025-10-08T13:49:55.065655",
+     "start_time": "2025-10-09T01:45:00.068581",
      "status": "completed"
     },
     "tags": []
@@ -34,19 +34,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "e3aea61e",
+   "id": "4745e711",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-10-08T13:49:55.081617Z",
-     "iopub.status.busy": "2025-10-08T13:49:55.081327Z",
-     "iopub.status.idle": "2025-10-08T13:52:56.641735Z",
-     "shell.execute_reply": "2025-10-08T13:52:56.641010Z"
+     "iopub.execute_input": "2025-10-09T01:45:00.085356Z",
+     "iopub.status.busy": "2025-10-09T01:45:00.085071Z",
+     "iopub.status.idle": "2025-10-09T01:48:38.173769Z",
+     "shell.execute_reply": "2025-10-09T01:48:38.172929Z"
     },
     "papermill": {
-     "duration": 181.567293,
-     "end_time": "2025-10-08T13:52:56.643395",
+     "duration": 218.096142,
+     "end_time": "2025-10-09T01:48:38.175618",
      "exception": false,
-     "start_time": "2025-10-08T13:49:55.076102",
+     "start_time": "2025-10-09T01:45:00.079476",
      "status": "completed"
     },
     "tags": []
@@ -87,19 +87,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "59aaf9ec",
+   "id": "51e04c64",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-10-08T13:52:56.663824Z",
-     "iopub.status.busy": "2025-10-08T13:52:56.663457Z",
-     "iopub.status.idle": "2025-10-08T13:52:56.803268Z",
-     "shell.execute_reply": "2025-10-08T13:52:56.801606Z"
+     "iopub.execute_input": "2025-10-09T01:48:38.187017Z",
+     "iopub.status.busy": "2025-10-09T01:48:38.186588Z",
+     "iopub.status.idle": "2025-10-09T01:48:38.311639Z",
+     "shell.execute_reply": "2025-10-09T01:48:38.310590Z"
     },
     "papermill": {
-     "duration": 0.152758,
-     "end_time": "2025-10-08T13:52:56.804938",
+     "duration": 0.132534,
+     "end_time": "2025-10-09T01:48:38.313214",
      "exception": false,
-     "start_time": "2025-10-08T13:52:56.652180",
+     "start_time": "2025-10-09T01:48:38.180680",
      "status": "completed"
     },
     "tags": []
@@ -154,13 +154,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "920c6c2f",
+   "id": "5fa5e577",
    "metadata": {
     "papermill": {
-     "duration": 0.00425,
-     "end_time": "2025-10-08T13:52:56.814638",
+     "duration": 0.005004,
+     "end_time": "2025-10-09T01:48:38.323547",
      "exception": false,
-     "start_time": "2025-10-08T13:52:56.810388",
+     "start_time": "2025-10-09T01:48:38.318543",
      "status": "completed"
     },
     "tags": []
@@ -172,19 +172,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "2cb96c44",
+   "id": "40f9010f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-10-08T13:52:56.831121Z",
-     "iopub.status.busy": "2025-10-08T13:52:56.830505Z",
-     "iopub.status.idle": "2025-10-08T13:52:56.838884Z",
-     "shell.execute_reply": "2025-10-08T13:52:56.837986Z"
+     "iopub.execute_input": "2025-10-09T01:48:38.334474Z",
+     "iopub.status.busy": "2025-10-09T01:48:38.334171Z",
+     "iopub.status.idle": "2025-10-09T01:48:38.342359Z",
+     "shell.execute_reply": "2025-10-09T01:48:38.341452Z"
     },
     "papermill": {
-     "duration": 0.018979,
-     "end_time": "2025-10-08T13:52:56.840366",
+     "duration": 0.015346,
+     "end_time": "2025-10-09T01:48:38.343750",
      "exception": false,
-     "start_time": "2025-10-08T13:52:56.821387",
+     "start_time": "2025-10-09T01:48:38.328404",
      "status": "completed"
     },
     "tags": []
@@ -352,13 +352,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "039212b3",
+   "id": "f5644135",
    "metadata": {
     "papermill": {
-     "duration": 0.004695,
-     "end_time": "2025-10-08T13:52:56.850616",
+     "duration": 0.005144,
+     "end_time": "2025-10-09T01:48:38.354523",
      "exception": false,
-     "start_time": "2025-10-08T13:52:56.845921",
+     "start_time": "2025-10-09T01:48:38.349379",
      "status": "completed"
     },
     "tags": []
@@ -371,19 +371,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "3666f089",
+   "id": "e0751490",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-10-08T13:52:56.861875Z",
-     "iopub.status.busy": "2025-10-08T13:52:56.861603Z",
-     "iopub.status.idle": "2025-10-08T13:52:56.868499Z",
-     "shell.execute_reply": "2025-10-08T13:52:56.867535Z"
+     "iopub.execute_input": "2025-10-09T01:48:38.366408Z",
+     "iopub.status.busy": "2025-10-09T01:48:38.365982Z",
+     "iopub.status.idle": "2025-10-09T01:48:38.379894Z",
+     "shell.execute_reply": "2025-10-09T01:48:38.378962Z"
     },
     "papermill": {
-     "duration": 0.014333,
-     "end_time": "2025-10-08T13:52:56.869776",
+     "duration": 0.021723,
+     "end_time": "2025-10-09T01:48:38.381286",
      "exception": false,
-     "start_time": "2025-10-08T13:52:56.855443",
+     "start_time": "2025-10-09T01:48:38.359563",
      "status": "completed"
     },
     "tags": []
@@ -573,19 +573,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "9e86fb36",
+   "id": "510b46fb",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-10-08T13:52:56.880966Z",
-     "iopub.status.busy": "2025-10-08T13:52:56.880716Z",
-     "iopub.status.idle": "2025-10-08T13:52:56.892040Z",
-     "shell.execute_reply": "2025-10-08T13:52:56.891098Z"
+     "iopub.execute_input": "2025-10-09T01:48:38.411046Z",
+     "iopub.status.busy": "2025-10-09T01:48:38.410152Z",
+     "iopub.status.idle": "2025-10-09T01:48:38.422542Z",
+     "shell.execute_reply": "2025-10-09T01:48:38.421717Z"
     },
     "papermill": {
-     "duration": 0.018621,
-     "end_time": "2025-10-08T13:52:56.893450",
+     "duration": 0.037391,
+     "end_time": "2025-10-09T01:48:38.423839",
      "exception": false,
-     "start_time": "2025-10-08T13:52:56.874829",
+     "start_time": "2025-10-09T01:48:38.386448",
      "status": "completed"
     },
     "tags": []
@@ -977,19 +977,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "e33ebbd9",
+   "id": "0d03d25a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-10-08T13:52:56.906472Z",
-     "iopub.status.busy": "2025-10-08T13:52:56.906174Z",
-     "iopub.status.idle": "2025-10-08T13:52:56.923528Z",
-     "shell.execute_reply": "2025-10-08T13:52:56.922537Z"
+     "iopub.execute_input": "2025-10-09T01:48:38.438838Z",
+     "iopub.status.busy": "2025-10-09T01:48:38.438451Z",
+     "iopub.status.idle": "2025-10-09T01:48:38.456363Z",
+     "shell.execute_reply": "2025-10-09T01:48:38.455552Z"
     },
     "papermill": {
-     "duration": 0.026096,
-     "end_time": "2025-10-08T13:52:56.924789",
+     "duration": 0.026036,
+     "end_time": "2025-10-09T01:48:38.457622",
      "exception": false,
-     "start_time": "2025-10-08T13:52:56.898693",
+     "start_time": "2025-10-09T01:48:38.431586",
      "status": "completed"
     },
     "tags": []
@@ -1696,19 +1696,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "fb1921ef",
+   "id": "24718f75",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-10-08T13:52:56.936373Z",
-     "iopub.status.busy": "2025-10-08T13:52:56.936084Z",
-     "iopub.status.idle": "2025-10-08T13:52:56.946917Z",
-     "shell.execute_reply": "2025-10-08T13:52:56.946095Z"
+     "iopub.execute_input": "2025-10-09T01:48:38.469888Z",
+     "iopub.status.busy": "2025-10-09T01:48:38.469581Z",
+     "iopub.status.idle": "2025-10-09T01:48:38.480363Z",
+     "shell.execute_reply": "2025-10-09T01:48:38.479420Z"
     },
     "papermill": {
-     "duration": 0.018308,
-     "end_time": "2025-10-08T13:52:56.948245",
+     "duration": 0.018815,
+     "end_time": "2025-10-09T01:48:38.481782",
      "exception": false,
-     "start_time": "2025-10-08T13:52:56.929937",
+     "start_time": "2025-10-09T01:48:38.462967",
      "status": "completed"
     },
     "tags": []
@@ -2083,19 +2083,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "ec044816",
+   "id": "afb19047",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-10-08T13:52:56.959589Z",
-     "iopub.status.busy": "2025-10-08T13:52:56.959326Z",
-     "iopub.status.idle": "2025-10-08T14:02:14.181715Z",
-     "shell.execute_reply": "2025-10-08T14:02:14.180560Z"
+     "iopub.execute_input": "2025-10-09T01:48:38.493234Z",
+     "iopub.status.busy": "2025-10-09T01:48:38.492977Z",
+     "iopub.status.idle": "2025-10-09T01:57:51.990352Z",
+     "shell.execute_reply": "2025-10-09T01:57:51.989086Z"
     },
     "papermill": {
-     "duration": 557.229716,
-     "end_time": "2025-10-08T14:02:14.183157",
+     "duration": 553.505333,
+     "end_time": "2025-10-09T01:57:51.992376",
      "exception": false,
-     "start_time": "2025-10-08T13:52:56.953441",
+     "start_time": "2025-10-09T01:48:38.487043",
      "status": "completed"
     },
     "tags": []
@@ -2105,72 +2105,72 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "2025-10-08 13:53:08.293341: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\r\n",
+      "2025-10-09 01:48:50.024466: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\r\n",
       "WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\r\n",
-      "E0000 00:00:1759931588.479695      45 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\r\n",
-      "E0000 00:00:1759931588.531748      45 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\r\n",
-      "INFO 10-08 13:53:20 [__init__.py:244] Automatically detected platform cuda.\r\n",
+      "E0000 00:00:1759974530.232008      45 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\r\n",
+      "E0000 00:00:1759974530.293990      45 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\r\n",
+      "INFO 10-09 01:49:02 [__init__.py:244] Automatically detected platform cuda.\r\n",
       "[INFO] ====== Qwen-SFT vLLM Inference (Hybrid) ======\r\n",
       "[INFO] train=(36696, 7), test=(3, 5)\r\n",
       "[WARN] Some label indices are multi-token -> Fallback to text-label extraction (Case B)\r\n",
       "[INFO] GPU count=2, tensor_parallel_size=2\r\n",
-      "INFO 10-08 13:53:39 [config.py:841] This model supports multiple tasks: {'generate', 'reward', 'classify', 'embed'}. Defaulting to 'generate'.\r\n",
-      "WARNING 10-08 13:53:39 [config.py:3371] Casting torch.bfloat16 to torch.float16.\r\n",
-      "INFO 10-08 13:53:39 [config.py:1472] Using max model len 256\r\n",
-      "WARNING 10-08 13:53:39 [arg_utils.py:1735] Compute Capability < 8.0 is not supported by the V1 Engine. Falling back to V0. \r\n",
-      "WARNING 10-08 13:53:40 [cuda.py:102] To see benefits of async output processing, enable CUDA graph. Since, enforce-eager is enabled, async output processor cannot be used\r\n",
-      "INFO 10-08 13:53:40 [llm_engine.py:230] Initializing a V0 LLM engine (v0.9.2) with config: model='/kaggle/input/exp005-8b-fulltrain-qwen3-8b-20250915235233', speculative_config=None, tokenizer='/kaggle/input/exp005-8b-fulltrain-qwen3-8b-20250915235233', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, override_neuron_config={}, tokenizer_revision=None, trust_remote_code=True, dtype=torch.float16, max_seq_len=256, download_dir=None, load_format=LoadFormat.AUTO, tensor_parallel_size=2, pipeline_parallel_size=1, disable_custom_all_reduce=False, quantization=None, enforce_eager=True, kv_cache_dtype=auto,  device_config=cuda, decoding_config=DecodingConfig(backend='auto', disable_fallback=False, disable_any_whitespace=False, disable_additional_properties=False, reasoning_backend=''), observability_config=ObservabilityConfig(show_hidden_metrics_for_version=None, otlp_traces_endpoint=None, collect_detailed_traces=None), seed=42, served_model_name=/kaggle/input/exp005-8b-fulltrain-qwen3-8b-20250915235233, num_scheduler_steps=1, multi_step_stream_outputs=True, enable_prefix_caching=None, chunked_prefill_enabled=False, use_async_output_proc=False, pooler_config=None, compilation_config={\"level\":0,\"debug_dump_path\":\"\",\"cache_dir\":\"\",\"backend\":\"\",\"custom_ops\":[],\"splitting_ops\":[],\"use_inductor\":true,\"compile_sizes\":[],\"inductor_compile_config\":{\"enable_auto_functionalized_v2\":false},\"inductor_passes\":{},\"use_cudagraph\":true,\"cudagraph_num_of_warmups\":0,\"cudagraph_capture_sizes\":[],\"cudagraph_copy_inputs\":false,\"full_cuda_graph\":false,\"max_capture_size\":0,\"local_cache_dir\":null}, use_cached_outputs=False, \r\n",
-      "WARNING 10-08 13:53:41 [multiproc_worker_utils.py:307] Reducing Torch parallelism from 2 threads to 1 to avoid unnecessary CPU contention. Set OMP_NUM_THREADS in the external environment to tune this value as needed.\r\n",
-      "INFO 10-08 13:53:41 [cuda.py:311] Cannot use FlashAttention-2 backend for Volta and Turing GPUs.\r\n",
-      "INFO 10-08 13:53:41 [cuda.py:360] Using XFormers backend.\r\n",
-      "2025-10-08 13:53:47.849569: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\r\n",
+      "INFO 10-09 01:49:22 [config.py:841] This model supports multiple tasks: {'embed', 'classify', 'generate', 'reward'}. Defaulting to 'generate'.\r\n",
+      "WARNING 10-09 01:49:22 [config.py:3371] Casting torch.bfloat16 to torch.float16.\r\n",
+      "INFO 10-09 01:49:22 [config.py:1472] Using max model len 256\r\n",
+      "WARNING 10-09 01:49:22 [arg_utils.py:1735] Compute Capability < 8.0 is not supported by the V1 Engine. Falling back to V0. \r\n",
+      "WARNING 10-09 01:49:23 [cuda.py:102] To see benefits of async output processing, enable CUDA graph. Since, enforce-eager is enabled, async output processor cannot be used\r\n",
+      "INFO 10-09 01:49:23 [llm_engine.py:230] Initializing a V0 LLM engine (v0.9.2) with config: model='/kaggle/input/exp005-8b-fulltrain-qwen3-8b-20250915235233', speculative_config=None, tokenizer='/kaggle/input/exp005-8b-fulltrain-qwen3-8b-20250915235233', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, override_neuron_config={}, tokenizer_revision=None, trust_remote_code=True, dtype=torch.float16, max_seq_len=256, download_dir=None, load_format=LoadFormat.AUTO, tensor_parallel_size=2, pipeline_parallel_size=1, disable_custom_all_reduce=False, quantization=None, enforce_eager=True, kv_cache_dtype=auto,  device_config=cuda, decoding_config=DecodingConfig(backend='auto', disable_fallback=False, disable_any_whitespace=False, disable_additional_properties=False, reasoning_backend=''), observability_config=ObservabilityConfig(show_hidden_metrics_for_version=None, otlp_traces_endpoint=None, collect_detailed_traces=None), seed=42, served_model_name=/kaggle/input/exp005-8b-fulltrain-qwen3-8b-20250915235233, num_scheduler_steps=1, multi_step_stream_outputs=True, enable_prefix_caching=None, chunked_prefill_enabled=False, use_async_output_proc=False, pooler_config=None, compilation_config={\"level\":0,\"debug_dump_path\":\"\",\"cache_dir\":\"\",\"backend\":\"\",\"custom_ops\":[],\"splitting_ops\":[],\"use_inductor\":true,\"compile_sizes\":[],\"inductor_compile_config\":{\"enable_auto_functionalized_v2\":false},\"inductor_passes\":{},\"use_cudagraph\":true,\"cudagraph_num_of_warmups\":0,\"cudagraph_capture_sizes\":[],\"cudagraph_copy_inputs\":false,\"full_cuda_graph\":false,\"max_capture_size\":0,\"local_cache_dir\":null}, use_cached_outputs=False, \r\n",
+      "WARNING 10-09 01:49:24 [multiproc_worker_utils.py:307] Reducing Torch parallelism from 2 threads to 1 to avoid unnecessary CPU contention. Set OMP_NUM_THREADS in the external environment to tune this value as needed.\r\n",
+      "INFO 10-09 01:49:24 [cuda.py:311] Cannot use FlashAttention-2 backend for Volta and Turing GPUs.\r\n",
+      "INFO 10-09 01:49:24 [cuda.py:360] Using XFormers backend.\r\n",
+      "2025-10-09 01:49:30.769717: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\r\n",
       "WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\r\n",
-      "E0000 00:00:1759931627.874962      73 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\r\n",
-      "E0000 00:00:1759931627.882336      73 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\r\n",
-      "INFO 10-08 13:53:51 [__init__.py:244] Automatically detected platform cuda.\r\n",
-      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-08 13:53:54 [multiproc_worker_utils.py:226] Worker ready; awaiting tasks\r\n",
-      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-08 13:53:54 [cuda.py:311] Cannot use FlashAttention-2 backend for Volta and Turing GPUs.\r\n",
-      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-08 13:53:54 [cuda.py:360] Using XFormers backend.\r\n",
-      "[W1008 13:54:05.935611123 socket.cpp:200] [c10d] The hostname of the client socket cannot be retrieved. err=-3\r\n",
-      "[W1008 13:54:05.340468773 socket.cpp:200] [c10d] The hostname of the client socket cannot be retrieved. err=-3\r\n",
-      "[W1008 13:54:15.943283091 socket.cpp:200] [c10d] The hostname of the client socket cannot be retrieved. err=-3\r\n",
-      "[W1008 13:54:25.953786746 socket.cpp:200] [c10d] The hostname of the client socket cannot be retrieved. err=-3\r\n",
-      "INFO 10-08 13:54:25 [__init__.py:1152] Found nccl from library libnccl.so.2\r\n",
-      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-08 13:54:25 [__init__.py:1152] Found nccl from library libnccl.so.2\r\n",
-      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-08 13:54:25 [pynccl.py:70] vLLM is using nccl==2.26.2\r\n",
-      "INFO 10-08 13:54:25 [pynccl.py:70] vLLM is using nccl==2.26.2\r\n",
-      "INFO 10-08 13:54:25 [custom_all_reduce_utils.py:208] generating GPU P2P access cache in /root/.cache/vllm/gpu_p2p_access_cache_for_0,1.json\r\n",
-      "INFO 10-08 13:54:51 [custom_all_reduce_utils.py:246] reading GPU P2P access cache from /root/.cache/vllm/gpu_p2p_access_cache_for_0,1.json\r\n",
-      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-08 13:54:51 [custom_all_reduce_utils.py:246] reading GPU P2P access cache from /root/.cache/vllm/gpu_p2p_access_cache_for_0,1.json\r\n",
-      "INFO 10-08 13:54:51 [shm_broadcast.py:289] vLLM message queue communication handle: Handle(local_reader_ranks=[1], buffer_handle=(1, 4194304, 6, 'psm_afa02081'), local_subscribe_addr='ipc:///tmp/2ab87df1-1601-4be9-82f3-9e8fb14d3b2a', remote_subscribe_addr=None, remote_addr_ipv6=False)\r\n",
-      "INFO 10-08 13:54:51 [parallel_state.py:1076] rank 0 in world size 2 is assigned as DP rank 0, PP rank 0, TP rank 0, EP rank 0\r\n",
-      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-08 13:54:51 [parallel_state.py:1076] rank 1 in world size 2 is assigned as DP rank 0, PP rank 0, TP rank 1, EP rank 1\r\n",
-      "INFO 10-08 13:54:51 [model_runner.py:1171] Starting to load model /kaggle/input/exp005-8b-fulltrain-qwen3-8b-20250915235233...\r\n",
-      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-08 13:54:51 [model_runner.py:1171] Starting to load model /kaggle/input/exp005-8b-fulltrain-qwen3-8b-20250915235233...\r\n",
+      "E0000 00:00:1759974570.805752      73 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\r\n",
+      "E0000 00:00:1759974570.816296      73 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\r\n",
+      "INFO 10-09 01:49:34 [__init__.py:244] Automatically detected platform cuda.\r\n",
+      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-09 01:49:37 [multiproc_worker_utils.py:226] Worker ready; awaiting tasks\r\n",
+      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-09 01:49:37 [cuda.py:311] Cannot use FlashAttention-2 backend for Volta and Turing GPUs.\r\n",
+      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-09 01:49:37 [cuda.py:360] Using XFormers backend.\r\n",
+      "[W1009 01:49:48.551867334 socket.cpp:200] [c10d] The hostname of the client socket cannot be retrieved. err=-3\r\n",
+      "[W1009 01:49:48.942588498 socket.cpp:200] [c10d] The hostname of the client socket cannot be retrieved. err=-3\r\n",
+      "[W1009 01:49:58.562731916 socket.cpp:200] [c10d] The hostname of the client socket cannot be retrieved. err=-3\r\n",
+      "[W1009 01:50:08.573259069 socket.cpp:200] [c10d] The hostname of the client socket cannot be retrieved. err=-3\r\n",
+      "INFO 10-09 01:50:08 [__init__.py:1152] Found nccl from library libnccl.so.2\r\n",
+      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-09 01:50:08 [__init__.py:1152] Found nccl from library libnccl.so.2\r\n",
+      "INFO 10-09 01:50:08 [pynccl.py:70] vLLM is using nccl==2.26.2\r\n",
+      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-09 01:50:08 [pynccl.py:70] vLLM is using nccl==2.26.2\r\n",
+      "INFO 10-09 01:50:08 [custom_all_reduce_utils.py:208] generating GPU P2P access cache in /root/.cache/vllm/gpu_p2p_access_cache_for_0,1.json\r\n",
+      "INFO 10-09 01:50:34 [custom_all_reduce_utils.py:246] reading GPU P2P access cache from /root/.cache/vllm/gpu_p2p_access_cache_for_0,1.json\r\n",
+      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-09 01:50:34 [custom_all_reduce_utils.py:246] reading GPU P2P access cache from /root/.cache/vllm/gpu_p2p_access_cache_for_0,1.json\r\n",
+      "INFO 10-09 01:50:34 [shm_broadcast.py:289] vLLM message queue communication handle: Handle(local_reader_ranks=[1], buffer_handle=(1, 4194304, 6, 'psm_a0c2b07b'), local_subscribe_addr='ipc:///tmp/a80ff644-2e2f-4be2-a88a-6b245bf7ca24', remote_subscribe_addr=None, remote_addr_ipv6=False)\r\n",
+      "INFO 10-09 01:50:34 [parallel_state.py:1076] rank 0 in world size 2 is assigned as DP rank 0, PP rank 0, TP rank 0, EP rank 0\r\n",
+      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-09 01:50:34 [parallel_state.py:1076] rank 1 in world size 2 is assigned as DP rank 0, PP rank 0, TP rank 1, EP rank 1\r\n",
+      "INFO 10-09 01:50:34 [model_runner.py:1171] Starting to load model /kaggle/input/exp005-8b-fulltrain-qwen3-8b-20250915235233...\r\n",
+      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-09 01:50:35 [model_runner.py:1171] Starting to load model /kaggle/input/exp005-8b-fulltrain-qwen3-8b-20250915235233...\r\n",
       "Loading safetensors checkpoint shards:   0% Completed | 0/4 [00:00<?, ?it/s]\r\n",
-      "Loading safetensors checkpoint shards:  25% Completed | 1/4 [00:40<02:01, 40.62s/it]\r\n",
-      "Loading safetensors checkpoint shards:  50% Completed | 2/4 [01:15<01:14, 37.30s/it]\r\n",
-      "Loading safetensors checkpoint shards:  75% Completed | 3/4 [01:24<00:24, 24.25s/it]\r\n",
-      "Loading safetensors checkpoint shards: 100% Completed | 4/4 [02:05<00:00, 30.86s/it]\r\n",
-      "Loading safetensors checkpoint shards: 100% Completed | 4/4 [02:05<00:00, 31.33s/it]\r\n",
+      "Loading safetensors checkpoint shards:  25% Completed | 1/4 [00:44<02:12, 44.28s/it]\r\n",
+      "Loading safetensors checkpoint shards:  50% Completed | 2/4 [01:21<01:20, 40.16s/it]\r\n",
+      "Loading safetensors checkpoint shards:  75% Completed | 3/4 [01:31<00:26, 26.31s/it]\r\n",
+      "Loading safetensors checkpoint shards: 100% Completed | 4/4 [02:13<00:00, 32.43s/it]\r\n",
+      "Loading safetensors checkpoint shards: 100% Completed | 4/4 [02:13<00:00, 33.30s/it]\r\n",
       "\r\n",
-      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-08 13:56:57 [default_loader.py:272] Loading weights took 124.94 seconds\r\n",
-      "INFO 10-08 13:56:57 [default_loader.py:272] Loading weights took 125.61 seconds\r\n",
-      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-08 13:56:58 [model_runner.py:1203] Model loading took 7.6369 GiB and 125.211311 seconds\r\n",
-      "INFO 10-08 13:56:58 [model_runner.py:1203] Model loading took 7.6369 GiB and 125.882425 seconds\r\n",
-      "\r\n",
-      "\r\n",
-      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-08 13:57:06 [worker.py:294] model weights take 7.64GiB; non_torch_memory takes 0.12GiB; PyTorch activation peak memory takes 0.16GiB; the rest of the memory reserved for KV Cache is 6.09GiB.\r\n",
+      "INFO 10-09 01:52:48 [default_loader.py:272] Loading weights took 133.30 seconds\r\n",
+      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-09 01:52:48 [default_loader.py:272] Loading weights took 133.13 seconds\r\n",
+      "INFO 10-09 01:52:49 [model_runner.py:1203] Model loading took 7.6369 GiB and 133.578371 seconds\r\n",
+      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-09 01:52:49 [model_runner.py:1203] Model loading took 7.6369 GiB and 133.405342 seconds\r\n",
       "\r\n",
       "\r\n",
-      "INFO 10-08 13:57:06 [worker.py:294] model weights take 7.64GiB; non_torch_memory takes 0.12GiB; PyTorch activation peak memory takes 1.40GiB; the rest of the memory reserved for KV Cache is 4.84GiB.\r\n",
-      "INFO 10-08 13:57:06 [executor_base.py:113] # cuda blocks: 4409, # CPU blocks: 3640\r\n",
-      "INFO 10-08 13:57:06 [executor_base.py:118] Maximum concurrency for 256 tokens per request: 275.56x\r\n",
-      "INFO 10-08 13:57:11 [llm_engine.py:428] init engine (profile, create kv cache, warmup model) took 13.37 seconds\r\n",
+      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-09 01:52:57 [worker.py:294] model weights take 7.64GiB; non_torch_memory takes 0.12GiB; PyTorch activation peak memory takes 0.16GiB; the rest of the memory reserved for KV Cache is 6.09GiB.\r\n",
+      "\r\n",
+      "\r\n",
+      "INFO 10-09 01:52:58 [worker.py:294] model weights take 7.64GiB; non_torch_memory takes 0.12GiB; PyTorch activation peak memory takes 1.40GiB; the rest of the memory reserved for KV Cache is 4.84GiB.\r\n",
+      "INFO 10-09 01:52:58 [executor_base.py:113] # cuda blocks: 4409, # CPU blocks: 3640\r\n",
+      "INFO 10-09 01:52:58 [executor_base.py:118] Maximum concurrency for 256 tokens per request: 275.56x\r\n",
+      "INFO 10-09 01:53:04 [llm_engine.py:428] init engine (profile, create kv cache, warmup model) took 14.21 seconds\r\n",
       "[INFO] Generating (Case B)...\r\n",
-      "Adding requests: 100%|███████████████████████████| 3/3 [00:00<00:00, 551.71it/s]\r\n",
-      "Processed prompts: 100%|█| 3/3 [00:01<00:00,  1.91it/s, est. speed input: 249.36\r\n",
-      "[INFO] Generation done in 1.6s\r\n",
+      "Adding requests: 100%|███████████████████████████| 3/3 [00:00<00:00, 990.62it/s]\r\n",
+      "Processed prompts: 100%|█| 3/3 [00:01<00:00,  2.08it/s, est. speed input: 271.51\r\n",
+      "[INFO] Generation done in 1.4s\r\n",
       "[INFO] Saved probabilities to /kaggle/working/submission_qwen_sft_probabilities.csv\r\n",
       "[INFO] Saved submission to   /kaggle/working/submission_qwen_sft.csv\r\n",
       "[INFO] Preview probabilities:\r\n",
@@ -2180,8 +2180,8 @@
       "2   36698     0.0     0.0     0.0  ...      0.0      0.0      0.0             \r\n",
       "\r\n",
       "[3 rows x 27 columns]\r\n",
-      "INFO 10-08 13:57:13 [multiproc_worker_utils.py:138] Terminating local vLLM worker processes\r\n",
-      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-08 13:57:13 [multiproc_worker_utils.py:260] Worker exiting\r\n",
+      "INFO 10-09 01:53:05 [multiproc_worker_utils.py:138] Terminating local vLLM worker processes\r\n",
+      "\u001b[1;36m(VllmWorkerProcess pid=73)\u001b[0;0m INFO 10-09 01:53:05 [multiproc_worker_utils.py:260] Worker exiting\r\n",
       "[INFO] Done.\r\n",
       "GPU count: 2\n",
       "=== GPU 0 ===\n",
@@ -2198,20 +2198,20 @@
       "Max Allocated:    0 MB\n",
       "Max Reserved:     0 MB\n",
       "\n",
-      "2025-10-08 13:57:33.854498: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\r\n",
+      "2025-10-09 01:53:26.741406: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\r\n",
       "WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\r\n",
-      "E0000 00:00:1759931853.878859     261 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\r\n",
-      "E0000 00:00:1759931853.886542     261 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\r\n",
+      "E0000 00:00:1759974806.768392     262 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\r\n",
+      "E0000 00:00:1759974806.776703     262 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\r\n",
       "Train shape: (36696, 9) with 65 target classes\r\n",
-      "Loading checkpoint shards: 100%|██████████████████| 4/4 [01:36<00:00, 24.03s/it]\r\n",
+      "Loading checkpoint shards: 100%|██████████████████| 4/4 [01:24<00:00, 21.23s/it]\r\n",
       "Some weights of Gemma2ForSequenceClassification were not initialized from the model checkpoint at /kaggle/input/gemma2-9b-it-bf16 and are newly initialized: ['score.weight']\r\n",
       "You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.\r\n",
       "/usr/local/lib/python3.11/dist-packages/peft/config.py:165: UserWarning: Unexpected keyword arguments ['qalora_group_size', 'use_qalora'] for class LoraConfig, these are ignored. This probably means that you're loading a configuration file that was saved using a higher version of the library and additional parameters have been introduced since. It is highly recommended to upgrade the PEFT version before continuing (e.g. by running `pip install -U peft`).\r\n",
       "  warnings.warn(\r\n",
-      "Map: 100%|████████████████████████████████| 3/3 [00:00<00:00, 113.22 examples/s]\r\n",
+      "Map: 100%|████████████████████████████████| 3/3 [00:00<00:00, 113.61 examples/s]\r\n",
       "Inference:   0%|                                          | 0/1 [00:00<?, ?it/s]/usr/local/lib/python3.11/dist-packages/transformers/tokenization_utils_base.py:2714: UserWarning: `max_length` is ignored when `padding`=`True` and there is no truncation strategy. To pad to max length, use `padding='max_length'`.\r\n",
       "  warnings.warn(\r\n",
-      "Inference: 100%|██████████████████████████████████| 1/1 [00:02<00:00,  2.57s/it]\r\n",
+      "Inference: 100%|██████████████████████████████████| 1/1 [00:02<00:00,  2.69s/it]\r\n",
       "GPU count: 2\n",
       "=== GPU 0 ===\n",
       "Name: Tesla T4\n",
@@ -2227,28 +2227,28 @@
       "Max Allocated:    0 MB\n",
       "Max Reserved:     0 MB\n",
       "\n",
-      "2025-10-08 13:59:38.677647: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\r\n",
+      "2025-10-09 01:55:21.493152: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered\r\n",
       "WARNING: All log messages before absl::InitializeLog() is called are written to STDERR\r\n",
-      "E0000 00:00:1759931978.703144     288 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\r\n",
-      "E0000 00:00:1759931978.710638     288 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\r\n",
+      "E0000 00:00:1759974921.520167     289 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered\r\n",
+      "E0000 00:00:1759974921.528027     289 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered\r\n",
       "Train shape: (36696, 9) with 65 target classes\r\n",
       " Starting multi-GPU inference...\r\n",
       "Loading deepseek on cuda:0...\r\n",
       "Loading checkpoint shards:   0%|                          | 0/3 [00:00<?, ?it/s]Loading qwen3 on cuda:1...\r\n",
       "\r\n",
-      "Loading checkpoint shards:  33%|██████            | 1/3 [00:45<01:30, 45.11s/it]\r\n",
-      "Loading checkpoint shards:  67%|████████████      | 2/3 [01:27<00:43, 43.44s/it]\r\n",
-      "Loading checkpoint shards: 100%|██████████████████| 3/3 [01:52<00:00, 37.64s/it]\r\n",
-      "Map: 100%|████████████████████████████████| 3/3 [00:00<00:00, 125.53 examples/s]\r\n",
-      "deepseek: 100%|███████████████████████████████████| 1/1 [00:02<00:00,  2.92s/it]\r\n",
+      "Loading checkpoint shards:  33%|██████            | 1/3 [00:41<01:22, 41.49s/it]\r\n",
+      "Loading checkpoint shards:  67%|████████████      | 2/3 [01:26<00:43, 43.83s/it]\r\n",
+      "Loading checkpoint shards: 100%|██████████████████| 3/3 [01:50<00:00, 36.93s/it]\r\n",
+      "Map: 100%|████████████████████████████████| 3/3 [00:00<00:00, 123.57 examples/s]\r\n",
+      "deepseek: 100%|███████████████████████████████████| 1/1 [00:01<00:00,  1.25s/it]\r\n",
       " deepseek completed - saved submission and probabilities\r\n",
       "\r\n",
-      "Loading checkpoint shards:  75%|█████████████▌    | 3/4 [02:09<00:43, 43.09s/it]\u001b[A\r\n",
-      "Loading checkpoint shards: 100%|██████████████████| 4/4 [02:12<00:00, 33.07s/it]\r\n",
-      "Map: 100%|████████████████████████████████| 3/3 [00:00<00:00, 589.03 examples/s]\r\n",
-      "qwen3: 100%|██████████████████████████████████████| 1/1 [00:00<00:00,  2.69it/s]\r\n",
+      "Loading checkpoint shards:  75%|█████████████▌    | 3/4 [02:04<00:41, 41.07s/it]\u001b[A\r\n",
+      "Loading checkpoint shards: 100%|██████████████████| 4/4 [02:07<00:00, 31.81s/it]\r\n",
+      "Map: 100%|████████████████████████████████| 3/3 [00:00<00:00, 621.01 examples/s]\r\n",
+      "qwen3: 100%|██████████████████████████████████████| 1/1 [00:00<00:00,  2.81it/s]\r\n",
       " qwen3 completed - saved submission and probabilities\r\n",
-      " completed in 143.62 seconds!\r\n",
+      " completed in 138.58 seconds!\r\n",
       "GPU count: 2\n",
       "=== GPU 0 ===\n",
       "Name: Tesla T4\n",
@@ -2287,7 +2287,7 @@
   },
   {
    "cell_type": "markdown",
-   "id": "b2c5b792",
+   "id": "35b8b22a",
    "metadata": {
     "execution": {
      "iopub.execute_input": "2025-09-05T05:24:19.923503Z",
@@ -2297,10 +2297,10 @@
      "shell.execute_reply.started": "2025-09-05T05:24:19.923473Z"
     },
     "papermill": {
-     "duration": 0.008325,
-     "end_time": "2025-10-08T14:02:14.199955",
+     "duration": 0.008604,
+     "end_time": "2025-10-09T01:57:52.010773",
      "exception": false,
-     "start_time": "2025-10-08T14:02:14.191630",
+     "start_time": "2025-10-09T01:57:52.002169",
      "status": "completed"
     },
     "tags": []
@@ -2311,13 +2311,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "bc3fb6cf",
+   "id": "bd004bf4",
    "metadata": {
     "papermill": {
-     "duration": 0.008091,
-     "end_time": "2025-10-08T14:02:14.216169",
+     "duration": 0.008233,
+     "end_time": "2025-10-09T01:57:52.027353",
      "exception": false,
-     "start_time": "2025-10-08T14:02:14.208078",
+     "start_time": "2025-10-09T01:57:52.019120",
      "status": "completed"
     },
     "tags": []
@@ -2329,19 +2329,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "50265005",
+   "id": "14167351",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-10-08T14:02:14.234174Z",
-     "iopub.status.busy": "2025-10-08T14:02:14.233887Z",
-     "iopub.status.idle": "2025-10-08T14:02:14.732035Z",
-     "shell.execute_reply": "2025-10-08T14:02:14.731111Z"
+     "iopub.execute_input": "2025-10-09T01:57:52.048127Z",
+     "iopub.status.busy": "2025-10-09T01:57:52.047812Z",
+     "iopub.status.idle": "2025-10-09T01:57:52.572325Z",
+     "shell.execute_reply": "2025-10-09T01:57:52.571277Z"
     },
     "papermill": {
-     "duration": 0.509045,
-     "end_time": "2025-10-08T14:02:14.733304",
+     "duration": 0.53771,
+     "end_time": "2025-10-09T01:57:52.573740",
      "exception": false,
-     "start_time": "2025-10-08T14:02:14.224259",
+     "start_time": "2025-10-09T01:57:52.036030",
      "status": "completed"
     },
     "tags": []
@@ -2514,7 +2514,7 @@
     "# deepseek math 7b - 0.944\n",
     "# qwen3 8b        - 0.943\n",
     "# gemma 2 9b      - 0.942\n",
-    "w1, w2, w3, w4, w5 = 1.0, 1.0, 1.0, 1.0, 1.0\n",
+    "w1, w2, w3, w4, w5 = 1.5, 1.0, 0.5, 1.0, 1.0\n",
     "\n",
     "prob_files = [\n",
     "    \"/kaggle/working/submission_deepseek_probabilities.csv\",\n",
@@ -2620,14 +2620,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 745.047837,
-   "end_time": "2025-10-08T14:02:15.762337",
+   "duration": 778.307421,
+   "end_time": "2025-10-09T01:57:53.605116",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-10-08T13:49:50.714500",
+   "start_time": "2025-10-09T01:44:55.297695",
    "version": "2.6.0"
   }
  },
